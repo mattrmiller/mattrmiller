@@ -1,7 +1,7 @@
 # 💫 About Me:
 Results-driven Engineer Leader with over a decade of proven success in managing and leading engineering teams. Skilled in developing scalable software solutions with high SLAs. Proficient in React, Vue, and Angular, with a strong focus on back-end development. Demonstrated expertise in Golang, PHP, Python, Javascript, and Typescript, with a language-agnostic approach. Holds AWS Solutions Architect and Agile Scrum Master certifications. Well-versed in SQL and NoSQL databases. Actively contribute to several open source projects on GitHub. Extensive knowledge of Docker and Kubernetes. Approach day-to-day responsibilities and solution architecture with a mature, experienced, and composed mindset. Able to empathize with problems that arise in functional software and execute the best approach methodically.
 
-email: [mattrmiller@gmail.com](mattrmiller@gmail.com)
+email: [mattrmiller@gmail.com](mailto:mattrmiller@gmail.com)
 
 github: [mattrmiller](https://github.com/mattrmiller)
 
