@@ -3,7 +3,7 @@ Results-driven Engineer Leader with over a decade of proven success in managing 
 #### Of Important Note:
 _If you are here reviewing my GitHub history, please note I have a tenured career working for large companies making proprietary software. Many of these companies leverage GitHub Enterprise which by nature **do not** contribute to public profiles, as they are private instances for corporations isolated from the outside world. Even those companies not using GitHub Enterprise may not even show up as private, because if a company deletes a repository statistics are removed from all contributors activity._ 
 
-_I use GitHub, personally as an archive for all things over my 24 year career. I am Geek By nature and training, it is my personal storage in lieu of all other storage services. I use GitHub Issues and Projects for my personal to do lists. Every little thing, from learning a new language, to larger pet projects with friends and family; is in my private GitHub._
+_I use GitHub, personally as an archive for all things over my 24 year career. I am a Geek By nature and training, it is my personal storage in lieu of all other storage services. I use GitHub Issues and Projects for my personal to do lists. Every little thing, from learning a new language, to larger pet projects with friends and family; is in my private GitHub._
 
 # 📫 Contact Me:
 
