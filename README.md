@@ -14,7 +14,7 @@ github: [mattrmiller](https://github.com/mattrmiller)
 linkedin: [mattrmillerco](https://www.linkedin.com/in/mattrmillerco/)
 
 # 📊 GitHub Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mattrmiller&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mattrmiller?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
 
 # 💻 Proficiency In:
 
