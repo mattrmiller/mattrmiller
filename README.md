@@ -16,7 +16,7 @@ linkedin: [mattrmillerco](https://www.linkedin.com/in/mattrmillerco/)
 classy geeks: [classygeeks.com](https://classygeeks.com)
 
 # 📊 GitHub Stats:
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mattrmiller?cardType=level&theme=dark&preferLogin=false&hide=issues,prs)](https://git.io/awesome-stats-card)
+[![Matthews's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattrmiller&hide=issues,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 # 💻 Proficiency In:
 
