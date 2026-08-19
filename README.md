@@ -1,10 +1,5 @@
 Experienced Engineer Individual Contributor Leader with a proven track record of delivering exceptional results. Proficient in developing scalable software solutions with high SLAs using React, Vue, and Angular. Skilled in Golang, PHP, Python, Javascript, and Typescript, with a language-agnostic approach. Holds certifications in AWS Solutions Architect and Agile Scrum Master. Proficient in SQL and NoSQL databases, actively contributing to open source projects on GitHub. Extensive knowledge of Docker and Kubernetes. Approach daily responsibilities and solution architecture with a mature, composed mindset. Empathetic towards challenges in functional software and adept at methodically executing the best approach.
 
-#### Of Important Note:
-_If you are here reviewing my GitHub history, please note I have a tenured career working for large companies making proprietary software. Many of these companies leverage GitHub Enterprise which by nature **do not** contribute to public profiles, as they are private instances for corporations isolated from the outside world. Even those companies not using GitHub Enterprise may not even show up as private, because if a company deletes a repository statistics are removed from all contributors activity._ 
-
-_I use GitHub, personally as an archive for all things over my 24 year career. I am a Geek By nature and training, it is my personal storage in lieu of all other storage services. I use GitHub Issues and Projects for my personal to do lists. Every little thing I have written or done in my personal career growth, from learning a new language, to larger pet projects with friends and family; is in my private GitHub._
-
 # 📫 Contact Me:
 
 email: [mattrmiller@gmail.com](mailto:mattrmiller@gmail.com)
